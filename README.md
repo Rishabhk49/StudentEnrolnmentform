@@ -2,7 +2,7 @@ Micro Project Work
 
 contact email : rishabhkatiyar49@gmail.com
 
-LINK - https://aniket-dey2000.github.io/JsonPOwerDB.github.io/
+LINK -https://rishabhk49.github.io/StudentEnrolnmentform/
 
 Title of the Project : Student Enrollment Form
 
